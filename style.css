@@ -1,4 +1,33 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;}
+h1 {
+    color:grey;
+    font-family: verdana;
+}
+
+.main-container {
+    background-color: white;
+    margin: auto;
+    color: black;
+    align: center;
+    border-radius: 25px;
+    width: 500px;
+    padding: 20px;
+    font-family: verdana;
+}
+
+.inner-container {
+    width: 70%;
+    margin: auto;
+    text-align: left;
+}
+.messageStyle {
+    margin: 0;
+    padding: 0;
+}
+
+.highlight {
+    background-color: yellow;
+}
 
 
